@@ -1,8 +1,8 @@
 {
-    "name": "spatie/backtrace",
+    "name": "virtual-avatar/backtrace",
     "description": "A better backtrace",
     "keywords": [
-        "spatie",
+        "virtual-avatar",
         "backtrace"
     ],
     "homepage": "https://github.com/spatie/backtrace",
